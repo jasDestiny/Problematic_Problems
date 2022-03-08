@@ -1,0 +1,4 @@
+https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/
+https://www.codingninjas.com/codestudio/problems/1062679?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/
+https://www.geeksforgeeks.org/floor-in-a-sorted-array/
